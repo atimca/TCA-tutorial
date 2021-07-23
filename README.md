@@ -2,7 +2,7 @@
 
 > _Disclaimer_: This tutorial uses **Xcode 12.4**, **Swift 5.3**, and **iOS 14**.
 
-> You can find the source code of this tutorial [here](https://github.es.ecg.tools/ecg-marktplaats/Benelux-iOS-team-ADRs/tree/new-proposal/architecture%20wiki/ArchitectureExample). If you're so eager to try it that you want to skip the tutorial, just launch `RootView.swift` preview.
+> You can find the source code of this tutorial [here](https://github.com/Atimca/TCA-tutorial). If you're so eager to try it that you want to skip the tutorial, just launch `RootView.swift` preview.
 
 ## Introduction 
 
