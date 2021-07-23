@@ -183,7 +183,7 @@ First, we're going to build the Dogs module. Basically the main and start module
 
 In this tutorial, we’ll start with the layout for the main **Dogs** screen. Here's what we're going to build:
 
-**Loading screen**, while loading dog breeds:
+**Loading screen**, while loading dog breeds:  
 ![DogsLoading](resources/Dogs/Loading.png)
 
 **Loaded screen**, with loaded dog breeds and a filtering field:
@@ -1455,6 +1455,8 @@ extension AppStoreTests {
 }
 ```
 </details>
+
+That's all folks! You've just built you're first TCA based application. Congratulations! 🥳 
 
 ## Where to go next
 
