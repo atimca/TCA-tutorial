@@ -469,7 +469,7 @@ Because the Dogs module itself is in charge of loading dogs, **DogsAction** has 
 
 ### Environment
 
-I already pointed out that we need to load dogs somehow. As you may emember, **Environment** is a type that holds all dependencies.
+I already pointed out that we need to load dogs somehow. As you may remember, **Environment** is a type that holds all dependencies.
 
 ```swift
 struct DogsEnvironment {
