@@ -186,7 +186,7 @@ In this tutorial, we’ll start with the layout for the main **Dogs** screen. He
 **Loading screen**, while loading dog breeds:  
 ![DogsLoading](resources/Dogs/Loading.png)
 
-**Loaded screen**, with loaded dog breeds and a filtering field:
+**Loaded screen**, with loaded dog breeds and a filtering field:  
 ![DogsLoading](resources/Dogs/Loaded.png)
 
 Let's create a `DogsView` itself. The result is supposed to look like this:
