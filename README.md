@@ -1088,7 +1088,7 @@ extension BreedStoreTests {
 
 So far we've accomplished 2 modules: Dogs and Breeds. However, they are completely independent from each other. Also: there's no way to navigate from Dogs to Breeds. Let's try to solve it with modularization techniques in `TCA`. If you’d like to know more details, watch this [pointfree collection](https://www.pointfree.co/collections/composable-architecture/modularity) about modularity.
 
-Navigation is still a topic under discussion and there's no clear approach for it yet. I’m going to show you my vision on tt. Well, one of my visions actually.
+Navigation is still a topic under discussion and there's no clear approach for it yet. I’m going to show you my vision on it. Well, one of my visions actually.
 For the App module there is no need to create a separate **ViewState** and **State** because the App module is going to serve only as a mediator with navigation over Dogs and Breeds modules.
 
 ### AppState
